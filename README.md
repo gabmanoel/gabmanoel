@@ -1,4 +1,4 @@
-## print('Olá, mundo!')
+## Olá, mundo!
 
 <!--
 **gabmanoel/gabmanoel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
